@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="softwaretestingmaterial" parallel="false">
+	<test name="Teste Integracao">
+		<classes>
+			<class name="br.com.llobo.testacases.TesteClass" />
+		</classes>
+	</test>
+</suite>
